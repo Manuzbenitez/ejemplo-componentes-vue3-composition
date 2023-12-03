@@ -2,7 +2,7 @@
 
 - [Preview page](https://listado-post.netlify.app/)
 
-Este es un ejemplo del curso de Udemy de Vue 3, trabajando con componentes y el composition api.
+Este es un ejemplo del curso de Udemy de Vuejs 3, trabajando con componentes y el composition api.
 
 ## Customize configuration
 
